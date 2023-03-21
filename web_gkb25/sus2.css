@@ -1,0 +1,54 @@
+.headerr
+{
+    margin-left: -15px;
+    margin-top: -10px;
+    height: 120px;
+    width: 1280px;
+    background-color: #F0F0F0;
+}
+
+.header
+{
+    margin-top: -85px;
+    margin-left: 100px;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo
+{
+    position: absolute;
+    margin-top: -106px;
+    width: 90px;
+    height: 90px;
+}
+
+.button_back
+{
+    position: absolute;
+    margin-top: 73px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom:20px;
+}
+
+.cont1
+{
+    margin-top: 30px;
+}
+
+.n6
+{
+    margin-top: 30px;
+}
+
+.n11
+{
+    margin-top: 30px;
+}
+
+.cont2
+{
+    margin-top: 30px;
+}

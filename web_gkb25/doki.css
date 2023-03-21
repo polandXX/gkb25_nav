@@ -1,0 +1,128 @@
+body            
+{
+    margin:auto;
+    height: 800px;
+    width: 100%;
+    overflow-x: hidden;
+}
+.headerr
+{
+    margin-left: -15px;
+    margin-top: -10px;
+    height: 120px;
+    width: 1280px;
+    background-color: #F0F0F0;
+}
+
+.header
+{
+    margin-top: -85px;
+    margin-left: 120px;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo
+{
+    margin-left: 15px;
+    position: absolute;
+    margin-top: -106px;
+    width: 90px;
+    height: 90px;
+}
+
+.button_back
+{
+    position: absolute;
+    margin-left: 5px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom:20px;
+}
+
+.but1
+{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.conteinertext
+{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.nomera
+{
+    margin-left: 150px;
+    color: limegreen;
+}
+
+.nomer1
+{
+    text-decoration: underline;
+}
+
+.nomer2
+{
+    text-decoration: underline;
+}
+
+.nomer3
+{
+    text-decoration: underline;
+}
+
+.nomer4
+{
+    text-decoration: underline;
+}
+
+.tel1
+{
+    width: 400px;
+    margin-left: 20px;
+}
+
+.tel2
+{
+    width: 400px;
+    margin-left: 20px;
+}
+
+.tel3
+{
+    width: 400px;
+    margin-left: 20px;
+}
+
+.tel4
+{
+    width: 400px;
+    margin-left: 20px;
+}
+
+.strah
+{
+    margin-top: 50px;
+    margin-left: 420px;
+    color: limegreen;
+}
+
+.rejim
+{
+    margin-top: 50px;
+    margin-left: 445px;
+    color: limegreen;
+}
+
+.containernomera
+{
+    margin-top: 50px;
+    margin-left: 10px;
+}

@@ -1,0 +1,53 @@
+.headerr
+{
+    margin-left: -15px;
+    margin-top: -10px;
+    height: 120px;
+    width: 1280px;
+    background-color: #F0F0F0;
+}
+
+.header
+{
+    margin-top: -85px;
+    margin-left: 100px;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo
+{
+    position: absolute;
+    margin-top: -106px;
+    width: 90px;
+    height: 90px;
+}
+
+.qr
+{
+    margin-top: 70px;
+    margin-left: 520px;
+
+}
+
+.rab
+{
+    margin-left: 545px;
+    font-size: 20px;
+}
+
+.ssilka
+{
+    margin-left: 530px;
+    font-size: 26px; 
+}
+
+.button_back
+{
+    position: absolute;
+    margin-top: 250px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom:20px;
+}
